@@ -1,2 +1,2 @@
 # LA-Assignments
-#### Linear algebra - Spring 2023
+#### Linear algebra - Fall 2023
